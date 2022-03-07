@@ -18,16 +18,16 @@ namespace Brojevi2
             int c = Convert.ToInt32(Console.ReadLine());
 
             int suma=0;
-            int zastavica = 0;
+            int zastavicaPrvi = 0;
             Console.Write("Rezultat je ");
             for(int i = a; i <= b; i++)
             {
                 if (i % c == 0)
                 {
-                    if (zastavica==0) Console.Write(i);
+                    if (zastavicaPrvi==0) Console.Write(i);
                     else Console.Write(", " + i);
                     suma += i;
-                    zastavica++;
+                    zastavicaPrvi++;
                 }
             }
             Console.WriteLine("\nSuma je "+suma);
