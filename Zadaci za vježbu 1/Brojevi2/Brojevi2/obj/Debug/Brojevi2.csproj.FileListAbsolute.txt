@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\bin\Debug\Brojevi2.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\bin\Debug\Brojevi2.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\bin\Debug\Brojevi2.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Brojevi2\Brojevi2\obj\Debug\Brojevi2.pdb
