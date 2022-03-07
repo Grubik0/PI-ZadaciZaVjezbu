@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\bin\Debug\FonetskaAbeceda.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\bin\Debug\FonetskaAbeceda.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\bin\Debug\FonetskaAbeceda.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\FonetskaAbeceda\FonetskaAbeceda\obj\Debug\FonetskaAbeceda.pdb
