@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\obj\Debug\GodisnjeDoba.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\obj\Debug\GodisnjeDoba.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\obj\Debug\GodisnjeDoba.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\bin\Debug\GodisnjeDoba.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\bin\Debug\GodisnjeDoba.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\bin\Debug\GodisnjeDoba.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\obj\Debug\GodisnjeDoba.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\GodisnjeDoba\GodisnjeDoba\obj\Debug\GodisnjeDoba.pdb
