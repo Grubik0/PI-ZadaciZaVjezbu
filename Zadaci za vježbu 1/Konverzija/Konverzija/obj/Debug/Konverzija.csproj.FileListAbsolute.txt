@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\obj\Debug\Konverzija.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\obj\Debug\Konverzija.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\obj\Debug\Konverzija.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\bin\Debug\Konverzija.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\bin\Debug\Konverzija.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\bin\Debug\Konverzija.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\obj\Debug\Konverzija.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\Konverzija\Konverzija\obj\Debug\Konverzija.pdb
