@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\obj\Debug\IzbornikSortiranje.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\obj\Debug\IzbornikSortiranje.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\obj\Debug\IzbornikSortiranje.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\bin\Debug\IzbornikSortiranje.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\bin\Debug\IzbornikSortiranje.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\bin\Debug\IzbornikSortiranje.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\obj\Debug\IzbornikSortiranje.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 1\IzbornikSortiranje\IzbornikSortiranje\obj\Debug\IzbornikSortiranje.pdb
