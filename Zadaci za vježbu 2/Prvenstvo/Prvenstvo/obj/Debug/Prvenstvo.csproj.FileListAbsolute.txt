@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\bin\Debug\Prvenstvo.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Prvenstvo\Prvenstvo\obj\Debug\Prvenstvo.pdb

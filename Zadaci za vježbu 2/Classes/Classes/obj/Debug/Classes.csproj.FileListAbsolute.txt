@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\obj\Debug\Classes.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\bin\Debug\Classes.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\bin\Debug\Classes.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\bin\Debug\Classes.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\obj\Debug\Classes.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Classes\Classes\obj\Debug\Classes.pdb

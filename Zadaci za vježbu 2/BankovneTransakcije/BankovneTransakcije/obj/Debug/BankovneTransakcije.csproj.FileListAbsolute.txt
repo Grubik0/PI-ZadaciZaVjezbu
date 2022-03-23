@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\bin\Debug\BankovneTransakcije.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\BankovneTransakcije\BankovneTransakcije\obj\Debug\BankovneTransakcije.pdb

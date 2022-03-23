@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\bin\Debug\AutobusnaKarta.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\bin\Debug\AutobusnaKarta.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\bin\Debug\AutobusnaKarta.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\AutobusnaKarta\AutobusnaKarta\obj\Debug\AutobusnaKarta.pdb

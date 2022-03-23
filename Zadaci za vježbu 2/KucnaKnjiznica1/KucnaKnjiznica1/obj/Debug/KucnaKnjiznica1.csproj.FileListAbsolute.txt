@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\bin\Debug\KucnaKnjiznica1.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\KucnaKnjiznica1\KucnaKnjiznica1\obj\Debug\KucnaKnjiznica1.pdb

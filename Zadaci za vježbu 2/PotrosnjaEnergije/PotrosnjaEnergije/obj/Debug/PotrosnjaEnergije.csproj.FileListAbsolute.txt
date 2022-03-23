@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\bin\Debug\PotrosnjaEnergije.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\bin\Debug\PotrosnjaEnergije.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\bin\Debug\PotrosnjaEnergije.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\obj\Debug\PotrosnjaEnergije.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\obj\Debug\PotrosnjaEnergije.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\obj\Debug\PotrosnjaEnergije.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\obj\Debug\PotrosnjaEnergije.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\PotrosnjaEnergije\PotrosnjaEnergije\obj\Debug\PotrosnjaEnergije.pdb

@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\bin\Debug\emailRacun.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\bin\Debug\emailRacun.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\bin\Debug\emailRacun.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\obj\Debug\emailRacun.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\obj\Debug\emailRacun.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\obj\Debug\emailRacun.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\obj\Debug\emailRacun.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\emailRacun\emailRacun\obj\Debug\emailRacun.pdb

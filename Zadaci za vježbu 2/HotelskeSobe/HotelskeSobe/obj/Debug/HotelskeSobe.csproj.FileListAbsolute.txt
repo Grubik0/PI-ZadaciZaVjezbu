@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\bin\Debug\HotelskeSobe.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\bin\Debug\HotelskeSobe.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\bin\Debug\HotelskeSobe.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\HotelskeSobe\HotelskeSobe\obj\Debug\HotelskeSobe.pdb

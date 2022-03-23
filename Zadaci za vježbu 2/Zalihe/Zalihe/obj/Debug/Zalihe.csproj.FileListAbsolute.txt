@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\bin\Debug\Zalihe.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\bin\Debug\Zalihe.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\bin\Debug\Zalihe.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\obj\Debug\Zalihe.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\obj\Debug\Zalihe.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\obj\Debug\Zalihe.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\obj\Debug\Zalihe.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Zalihe\Zalihe\obj\Debug\Zalihe.pdb

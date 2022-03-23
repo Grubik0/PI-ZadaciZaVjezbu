@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\bin\Debug\Glasanje.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\bin\Debug\Glasanje.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\bin\Debug\Glasanje.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\obj\Debug\Glasanje.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\obj\Debug\Glasanje.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\obj\Debug\Glasanje.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\obj\Debug\Glasanje.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Glasanje\Glasanje\obj\Debug\Glasanje.pdb

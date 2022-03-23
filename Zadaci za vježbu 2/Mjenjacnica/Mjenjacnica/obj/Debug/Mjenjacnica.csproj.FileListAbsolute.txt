@@ -1,0 +1,8 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\bin\Debug\Mjenjacnica.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 2\Mjenjacnica\Mjenjacnica\obj\Debug\Mjenjacnica.pdb
