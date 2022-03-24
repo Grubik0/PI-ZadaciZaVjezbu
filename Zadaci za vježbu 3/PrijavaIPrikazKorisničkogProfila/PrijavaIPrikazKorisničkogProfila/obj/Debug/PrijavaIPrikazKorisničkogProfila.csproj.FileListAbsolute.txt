@@ -1,0 +1,14 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\bin\Debug\PrijavaIPrikazKorisničkogProfila.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\bin\Debug\PrijavaIPrikazKorisničkogProfila.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\bin\Debug\PrijavaIPrikazKorisničkogProfila.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\bin\Debug\AutentifikacijaLib.dll
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.LogIn.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.Properties.Resources.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.csproj.GenerateResource.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.csproj.CopyComplete
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\PrijavaIPrikazKorisničkogProfila\PrijavaIPrikazKorisničkogProfila\obj\Debug\PrijavaIPrikazKorisničkogProfila.UserProfile.resources

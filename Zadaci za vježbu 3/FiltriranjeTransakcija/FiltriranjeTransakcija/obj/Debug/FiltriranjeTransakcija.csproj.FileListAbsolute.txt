@@ -1,0 +1,14 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\bin\Debug\FiltriranjeTransakcija.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\bin\Debug\FiltriranjeTransakcija.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\bin\Debug\FiltriranjeTransakcija.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\bin\Debug\BankaLib.dll
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.Properties.Resources.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.Transakcije.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.GenerateResource.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.csproj.CopyComplete
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\FiltriranjeTransakcija\FiltriranjeTransakcija\obj\Debug\FiltriranjeTransakcija.Detalji.resources

@@ -1,0 +1,14 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\bin\Debug\KucnaKnjiznica.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\bin\Debug\KucnaKnjiznica.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\bin\Debug\KucnaKnjiznica.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\bin\Debug\KucnaKnjiznicaLib.dll
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.Knjige.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.Properties.Resources.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.GenerateResource.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.csproj.CopyComplete
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\KucnaKnjiznica\KucnaKnjiznica\obj\Debug\KucnaKnjiznica.Posudba.resources

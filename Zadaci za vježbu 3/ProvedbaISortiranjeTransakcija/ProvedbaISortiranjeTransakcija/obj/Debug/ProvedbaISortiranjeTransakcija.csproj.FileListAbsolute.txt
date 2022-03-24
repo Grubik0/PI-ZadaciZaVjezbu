@@ -1,0 +1,14 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\bin\Debug\ProvedbaISortiranjeTransakcija.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\bin\Debug\ProvedbaISortiranjeTransakcija.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\bin\Debug\ProvedbaISortiranjeTransakcija.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\bin\Debug\BankaLib.dll
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.Popis.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.Properties.Resources.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.csproj.GenerateResource.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.csproj.CopyComplete
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\ProvedbaISortiranjeTransakcija\ProvedbaISortiranjeTransakcija\obj\Debug\ProvedbaISortiranjeTransakcija.Provedi.resources

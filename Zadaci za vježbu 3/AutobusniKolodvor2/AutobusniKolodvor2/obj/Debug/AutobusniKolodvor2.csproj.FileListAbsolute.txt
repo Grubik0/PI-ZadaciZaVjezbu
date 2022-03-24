@@ -1,0 +1,14 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\bin\Debug\AutobusniKolodvor2.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\bin\Debug\AutobusniKolodvor2.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\bin\Debug\AutobusniKolodvor2.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\bin\Debug\AutobusniKolodvorLib2.dll
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.AutobusneLinije.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.Properties.Resources.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.csproj.GenerateResource.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.csproj.CopyComplete
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AutobusniKolodvor2\AutobusniKolodvor2\obj\Debug\AutobusniKolodvor2.Kupnja.resources

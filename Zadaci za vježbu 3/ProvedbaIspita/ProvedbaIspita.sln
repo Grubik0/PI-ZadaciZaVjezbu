@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProvedbaIspita", "ProvedbaIspita\ProvedbaIspita.csproj", "{5BACD468-3DA7-4EF6-8F11-2660ABB4930D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BACD468-3DA7-4EF6-8F11-2660ABB4930D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BACD468-3DA7-4EF6-8F11-2660ABB4930D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BACD468-3DA7-4EF6-8F11-2660ABB4930D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BACD468-3DA7-4EF6-8F11-2660ABB4930D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72E02A9B-9F1C-4DEE-AF0C-94259EF700F5}
+	EndGlobalSection
+EndGlobal

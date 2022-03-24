@@ -1,0 +1,14 @@
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.exe.config
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AdministriranjeKorisnika.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\bin\Debug\AutentifikacijaLib.dll
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.AssemblyReference.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.SuggestedBindingRedirects.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.LogInForm.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.Properties.Resources.resources
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.GenerateResource.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.CoreCompileInputs.cache
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.csproj.CopyComplete
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.exe
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.pdb
+G:\Moj disk\FOI\6. SEM\PI\LABOSI\Zadaci za vježbu 3\AdministriranjeKorisnika\AdministriranjeKorisnika\obj\Debug\AdministriranjeKorisnika.AdminForm.resources
